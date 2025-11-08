@@ -29,6 +29,17 @@ text = f"""
 # Equinor CTF 2025
 Writeups and challenges resources for the 2025 Equinor CTF
 
+## How to Contribute
+
+Add a writeup by placing your team folder inside the challenge folder.
+
+Steps:
+1. Clone this repository.
+2. Find the challenge category: `writeups/<category>/<challenge name>/`
+3. Inside that challenge directory create a new folder named your team name
+   Example: `writeups/web/CloudNotes/my-team/`
+4. Inside your team folder add a README.md containing your writeup. Use markdown.
+5. Put any images in the same team folder; reference them with relative paths.
 
 ## Table of content
 
