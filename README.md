@@ -105,6 +105,7 @@ Steps:
  - **[Home Intrusion 2](/writeups/forensics/Home%20Intrusion%202)**
  - **[Insecure Exfil](/writeups/forensics/Insecure%20Exfil)**
  - **[Censoring](/writeups/forensics/Censoring)**
+	 - [abyss](/writeups/forensics/Censoring/abyss)  
  - **[Insider Threat](/writeups/forensics/Insider%20Threat)**
  - **[Home Intrusion](/writeups/forensics/Home%20Intrusion)**
 ### pwn
