@@ -36,6 +36,7 @@ Steps:
  - **[LOUD CRM](/writeups/web/LOUD%20CRM)**
 	 - [big](/writeups/web/LOUD%20CRM/big)  
 	 - [B00S](/writeups/web/LOUD%20CRM/B00S)  
+	 - [synapse_burnout](/writeups/web/LOUD%20CRM/synapse_burnout)  
  - **[Yarr!](/writeups/web/Yarr!)**
  - **[Of CORS I Can Help!](/writeups/web/Of%20CORS%20I%20Can%20Help!)**
 	 - [Kernel Carnage](/writeups/web/Of%20CORS%20I%20Can%20Help!/Kernel%20Carnage)  
