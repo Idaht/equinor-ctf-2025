@@ -46,6 +46,7 @@ Steps:
 	 - [synapse_burnout](/writeups/web/Of%20CORS%20I%20Can%20Help!/synapse_burnout)  
  - **[ScriptMe](/writeups/web/ScriptMe)**
  - **[EPT Cinemas](/writeups/web/EPT%20Cinemas)**
+	 - [big](/writeups/web/EPT%20Cinemas/big)  
 	 - [B00S](/writeups/web/EPT%20Cinemas/B00S)  
 	 - [sifi](/writeups/web/EPT%20Cinemas/sifi)  
  - **[Secretadmin](/writeups/web/Secretadmin)**
@@ -104,6 +105,7 @@ Steps:
 ### misc
  - **[EPT Flag Ship](/writeups/misc/EPT%20Flag%20Ship)**
  - **[Wolf3d](/writeups/misc/Wolf3d)**
+	 - [RumbleInTheJungle](/writeups/misc/Wolf3d/RumbleInTheJungle)  
  - **[Norges Aller Beste Hacker - Level 1](/writeups/misc/Norges%20Aller%20Beste%20Hacker%20-%20Level%201)**
 	 - [enso](/writeups/misc/Norges%20Aller%20Beste%20Hacker%20-%20Level%201/enso)  
  - **[Norges Aller Beste Hacker - Level 2](/writeups/misc/Norges%20Aller%20Beste%20Hacker%20-%20Level%202)**
@@ -113,6 +115,7 @@ Steps:
 	 - [telenor](/writeups/misc/Guess%20it/telenor)  
  - **[Zippy](/writeups/misc/Zippy)**
  - **[Cubeguessr](/writeups/misc/Cubeguessr)**
+	 - [Iku-toppene](/writeups/misc/Cubeguessr/Iku-toppene)  
  - **[Agents](/writeups/misc/Agents)**
 	 - [UiACTF](/writeups/misc/Agents/UiACTF)  
 	 - [bwnfools](/writeups/misc/Agents/bwnfools)  
@@ -167,4 +170,5 @@ Steps:
  - **[Veal and Car's first baby (heap) is all grown up](/writeups/pwn/Veal%20and%20Car's%20first%20baby%20(heap)%20is%20all%20grown%20up)**
 	 - [EPT](/writeups/pwn/Veal%20and%20Car's%20first%20baby%20(heap)%20is%20all%20grown%20up/EPT)  
  - **[Encryptor](/writeups/pwn/Encryptor)**
+	 - [Iku-toppene](/writeups/pwn/Encryptor/Iku-toppene)  
 
