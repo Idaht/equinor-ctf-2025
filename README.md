@@ -81,6 +81,7 @@ Steps:
 	 - [bwnfools](/writeups/crypto/420BasedIt/bwnfools)  
  - **[Srstokken](/writeups/crypto/Srstokken)**
  - **[Post Quantum Resistant Crypto for Enterprises](/writeups/crypto/Post%20Quantum%20Resistant%20Crypto%20for%20Enterprises)**
+	 - [RumbleInTheJungle](/writeups/crypto/Post%20Quantum%20Resistant%20Crypto%20for%20Enterprises/RumbleInTheJungle)  
  - **[pkcstiming](/writeups/crypto/pkcstiming)**
  - **[Curvy](/writeups/crypto/Curvy)**
 	 - [bwnFools](/writeups/crypto/Curvy/bwnFools)  
@@ -164,6 +165,7 @@ Steps:
 	 - [Trånn Jånn](/writeups/forensics/Home%20Intrusion/Trånn%20Jånn)  
 ### pwn
  - **[Fiftiweb](/writeups/pwn/Fiftiweb)**
+	 - [ekho](/writeups/pwn/Fiftiweb/ekho)  
  - **[Badge Overflow](/writeups/pwn/Badge%20Overflow)**
 	 - [RumbleInTheJungle](/writeups/pwn/Badge%20Overflow/RumbleInTheJungle)  
  - **[Stoneshop](/writeups/pwn/Stoneshop)**
