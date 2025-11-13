@@ -32,6 +32,7 @@ Steps:
 
 ### web
  - **[Hackermon](/writeups/web/Hackermon)**
+	 - [Sjokoladepålegg](/writeups/web/Hackermon/Sjokoladepålegg)  
 	 - [big](/writeups/web/Hackermon/big)  
  - **[LOUD CRM](/writeups/web/LOUD%20CRM)**
 	 - [big](/writeups/web/LOUD%20CRM/big)  
