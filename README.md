@@ -33,20 +33,24 @@ Steps:
 ### web
  - **[Hackermon](/writeups/web/Hackermon)**
 	 - [Sjokoladepålegg](/writeups/web/Hackermon/Sjokoladepålegg)  
+	 - [Norske Nøkkelsnikere](/writeups/web/Hackermon/Norske%20Nøkkelsnikere)  
 	 - [big](/writeups/web/Hackermon/big)  
  - **[LOUD CRM](/writeups/web/LOUD%20CRM)**
+	 - [Norske Nøkkelsnikere](/writeups/web/LOUD%20CRM/Norske%20Nøkkelsnikere)  
 	 - [big](/writeups/web/LOUD%20CRM/big)  
 	 - [B00S](/writeups/web/LOUD%20CRM/B00S)  
 	 - [synapse_burnout](/writeups/web/LOUD%20CRM/synapse_burnout)  
  - **[Yarr!](/writeups/web/Yarr!)**
  - **[Of CORS I Can Help!](/writeups/web/Of%20CORS%20I%20Can%20Help!)**
 	 - [Kernel Carnage](/writeups/web/Of%20CORS%20I%20Can%20Help!/Kernel%20Carnage)  
+	 - [Norske Nøkkelsnikere](/writeups/web/Of%20CORS%20I%20Can%20Help!/Norske%20Nøkkelsnikere)  
 	 - [B00S](/writeups/web/Of%20CORS%20I%20Can%20Help!/B00S)  
 	 - [sifi](/writeups/web/Of%20CORS%20I%20Can%20Help!/sifi)  
 	 - [bwnfools](/writeups/web/Of%20CORS%20I%20Can%20Help!/bwnfools)  
 	 - [synapse_burnout](/writeups/web/Of%20CORS%20I%20Can%20Help!/synapse_burnout)  
 	 - [RumbleInTheJungle](/writeups/web/Of%20CORS%20I%20Can%20Help!/RumbleInTheJungle)  
  - **[ScriptMe](/writeups/web/ScriptMe)**
+	 - [Norske Nøkkelsnikere](/writeups/web/ScriptMe/Norske%20Nøkkelsnikere)  
 	 - [big](/writeups/web/ScriptMe/big)  
 	 - [B00S](/writeups/web/ScriptMe/B00S)  
  - **[EPT Cinemas](/writeups/web/EPT%20Cinemas)**
@@ -54,6 +58,7 @@ Steps:
 	 - [B00S](/writeups/web/EPT%20Cinemas/B00S)  
 	 - [sifi](/writeups/web/EPT%20Cinemas/sifi)  
  - **[Secretadmin](/writeups/web/Secretadmin)**
+	 - [Norske Nøkkelsnikere](/writeups/web/Secretadmin/Norske%20Nøkkelsnikere)  
 	 - [big](/writeups/web/Secretadmin/big)  
 	 - [BaneNOR](/writeups/web/Secretadmin/BaneNOR)  
  - **[shop-8](/writeups/web/shop-8)**
@@ -114,6 +119,7 @@ Steps:
 	 - [bootplug](/writeups/sanity/Confirm%20attendance/bootplug)  
 ### misc
  - **[EPT Flag Ship](/writeups/misc/EPT%20Flag%20Ship)**
+	 - [Norske Nøkkelsnikere](/writeups/misc/EPT%20Flag%20Ship/Norske%20Nøkkelsnikere)  
  - **[Wolf3d](/writeups/misc/Wolf3d)**
 	 - [B00S](/writeups/misc/Wolf3d/B00S)  
 	 - [RumbleInTheJungle](/writeups/misc/Wolf3d/RumbleInTheJungle)  
@@ -159,6 +165,7 @@ Steps:
  - **[Quiz-About](/writeups/onsite/Quiz-About)**
 	 - [bootplug](/writeups/onsite/Quiz-About/bootplug)  
  - **[EPT Cyber Range](/writeups/onsite/EPT%20Cyber%20Range)**
+	 - [GTCTF](/writeups/onsite/EPT%20Cyber%20Range/GTCTF)  
  - **[The Claw](/writeups/onsite/The%20Claw)**
 	 - [bootplug](/writeups/onsite/The%20Claw/bootplug)  
  - **[Even moar pixel perfect](/writeups/onsite/Even%20moar%20pixel%20perfect)**
