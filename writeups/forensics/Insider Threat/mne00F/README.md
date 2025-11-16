@@ -7,7 +7,7 @@ Find the flag in the provided PCAP
 
 ## Process
 
-Open the PCAP in Wireshark, which immediately shows us the POP (Post Office Protocol) - based on this, the task may be related to emails. 
+Open the PCAP in Wireshark, which immediately shows us POP (Post Office Protocol) communication - based on this, the task may be related to emails. 
 
 Since POP is not really secure and it is right there, we can just get whatever we can from it (which will probably be useful later). Open the TCP stream to see:
 
