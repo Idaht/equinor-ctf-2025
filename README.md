@@ -97,6 +97,7 @@ Steps:
  - **[pkcstiming](/writeups/crypto/pkcstiming)**
 	 - [coldboots](/writeups/crypto/pkcstiming/coldboots)  
  - **[Curvy](/writeups/crypto/Curvy)**
+	 - [Sjokoladepålegg](/writeups/crypto/Curvy/Sjokoladepålegg)  
 	 - [bwnFools](/writeups/crypto/Curvy/bwnFools)  
 ### boot2root
  - **[cve-safari](/writeups/boot2root/cve-safari)**
