@@ -90,6 +90,7 @@ Steps:
 	 - [bootplug](/writeups/crypto/420BasedIt/bootplug)  
 	 - [big](/writeups/crypto/420BasedIt/big)  
 	 - [bwnfools](/writeups/crypto/420BasedIt/bwnfools)  
+	 - [mne00F](/writeups/crypto/420BasedIt/mne00F)  
  - **[Srstokken](/writeups/crypto/Srstokken)**
 	 - [coldboots](/writeups/crypto/Srstokken/coldboots)  
  - **[Post Quantum Resistant Crypto for Enterprises](/writeups/crypto/Post%20Quantum%20Resistant%20Crypto%20for%20Enterprises)**
@@ -97,6 +98,7 @@ Steps:
  - **[pkcstiming](/writeups/crypto/pkcstiming)**
 	 - [coldboots](/writeups/crypto/pkcstiming/coldboots)  
  - **[Curvy](/writeups/crypto/Curvy)**
+	 - [Sjokoladepålegg](/writeups/crypto/Curvy/Sjokoladepålegg)  
 	 - [bwnFools](/writeups/crypto/Curvy/bwnFools)  
 ### boot2root
  - **[cve-safari](/writeups/boot2root/cve-safari)**
@@ -108,6 +110,7 @@ Steps:
  - **[FOMO (root)](/writeups/boot2root/FOMO%20(root))**
  - **[FOMO (user)](/writeups/boot2root/FOMO%20(user))**
  - **[PotatoHead (root)](/writeups/boot2root/PotatoHead%20(root))**
+	 - [JQ](/writeups/boot2root/PotatoHead%20(root)/JQ)  
 	 - [RumbleInTheJungle](/writeups/boot2root/PotatoHead%20(root)/RumbleInTheJungle)  
 	 - [WinnieThePwn](/writeups/boot2root/PotatoHead%20(root)/WinnieThePwn)  
 ### sanity
@@ -164,6 +167,7 @@ Steps:
 ### onsite
  - **[Quiz-About](/writeups/onsite/Quiz-About)**
 	 - [bootplug](/writeups/onsite/Quiz-About/bootplug)  
+	 - [fessemisk](/writeups/onsite/Quiz-About/fessemisk)  
  - **[EPT Cyber Range](/writeups/onsite/EPT%20Cyber%20Range)**
 	 - [GTCTF](/writeups/onsite/EPT%20Cyber%20Range/GTCTF)  
  - **[The Claw](/writeups/onsite/The%20Claw)**
@@ -180,6 +184,7 @@ Steps:
  - **[Insecure Exfil](/writeups/forensics/Insecure%20Exfil)**
 	 - [Trånn Jånn](/writeups/forensics/Insecure%20Exfil/Trånn%20Jånn)  
 	 - [bwnfools](/writeups/forensics/Insecure%20Exfil/bwnfools)  
+	 - [mne00F](/writeups/forensics/Insecure%20Exfil/mne00F)  
  - **[Censoring](/writeups/forensics/Censoring)**
 	 - [abyss](/writeups/forensics/Censoring/abyss)  
  - **[Insider Threat](/writeups/forensics/Insider%20Threat)**
